@@ -1,0 +1,4 @@
+Impo- From the downloaded folder copy the infin file 
+& put the file into C:\Alan\Infinity & C:\Alan\Infinity\NewData otherwise 
+it will take time or may corrupt, & your database will be in C:\Alan\Infinity\Maps 
+you can save those files but again put in the exact folder otherwise data will corrupt. 
